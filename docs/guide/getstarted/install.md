@@ -42,5 +42,5 @@ packages like: [vvo/selenium-standalone](https://github.com/vvo/selenium-standal
 it (globally) you can run your server by executing:
 
 ```sh
-$ start-selenium
+$ selenium-standalone start
 ```
